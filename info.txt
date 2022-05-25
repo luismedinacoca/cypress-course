@@ -1,8 +1,5 @@
-LECTURE010: Installing cypress
+LECTURE011: Updating cypress version
 
-1. configurar un paquete: $npm init
-   - package.json is created
-2. run or execute $npm install cypress --save-dev
-   - node_modules folder is created.
-   - package-lock.json is created. 
-3. run the command: $node_modules/.bin/cypress open
+1. execute the command: $npm install cypress --force
+2. execute the command: $npm install -g npx
+3. execute the command: $npx cypress install --force
