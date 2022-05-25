@@ -1,0 +1,8 @@
+LECTURE010:
+
+1. configurar un paquete: $npm init
+   - package.json is created
+2. run or execute $npm install cypress --save-dev
+   - node_modules folder is created.
+   - package-lock.json is created. 
+3. run the command: $node_modules/.bin/cypress open
