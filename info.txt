@@ -1,4 +1,4 @@
-LECTURE010:
+LECTURE010: Installing cypress
 
 1. configurar un paquete: $npm init
    - package.json is created
